@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9738C85-0FD1-4652-B76C-06F2D34D1794}|lista01\\lista01.csproj|s:\\pm\\ter\\ets\\inter_setor\\compartilhado\\aprendizes\\digital_solutions_16\\luana grandi mota\\3 semestre\\c#\\lista01\\lista01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9738C85-0FD1-4652-B76C-06F2D34D1794}|lista01\\lista01.csproj|solutionrelative:lista01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\ETSprojectManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista01\\lista01\\Program.cs",
+              "RelativeDocumentMoniker": "lista01\\Program.cs",
+              "ToolTip": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista01\\lista01\\Program.cs*",
+              "RelativeToolTip": "lista01\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA1wIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:59:02.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4011a183-d8be-49dd-b152-20325bf37f36",
+        "Display": 0,
+        "X": 145,
+        "Y": 205,
+        "Width": 1578,
+        "Height": 857,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ETSprojectManager.cs",
+              "DocumentMoniker": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\ETSprojectManager.cs",
+              "RelativeDocumentMoniker": "..\\ETSprojectManager.cs",
+              "ToolTip": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\ETSprojectManager.cs",
+              "RelativeToolTip": "..\\ETSprojectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:21:15.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
