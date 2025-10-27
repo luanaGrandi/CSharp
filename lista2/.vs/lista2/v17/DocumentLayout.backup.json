@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8881B3FB-8FC5-4623-8709-E99E74BCFA2E}|lista2\\lista2.csproj|s:\\pm\\ter\\ets\\inter_setor\\compartilhado\\aprendizes\\digital_solutions_16\\luana grandi mota\\3 semestre\\c#\\lista2\\lista2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8881B3FB-8FC5-4623-8709-E99E74BCFA2E}|lista2\\lista2.csproj|solutionrelative:lista2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista01\\lista01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista01\\lista01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lista01\\lista01\\Program.cs",
+              "ToolTip": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista01\\lista01\\Program.cs",
+              "RelativeToolTip": "..\\lista01\\lista01\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:25:49.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista2\\lista2\\Program.cs",
+              "RelativeDocumentMoniker": "lista2\\Program.cs",
+              "ToolTip": "S:\\PM\\ter\\ets\\Inter_Setor\\COMPARTILHADO\\APRENDIZES\\DIGITAL_SOLUTIONS_16\\Luana Grandi Mota\\3 SEMESTRE\\C#\\lista2\\lista2\\Program.cs",
+              "RelativeToolTip": "lista2\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwAgBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:24:53.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
